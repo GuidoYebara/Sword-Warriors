@@ -1,0 +1,168 @@
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Version 1 completa, sin threads ni whiles\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Recuperada\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\maima\Downloads\FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\maima\Desktop\FINAL GAME\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 3\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csprojAssemblyReference.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\Desktop\FINAL GAME\FINAL GAME 4\Nueva Version FINAL GAME\Version 4 con threads\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CopyComplete
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gggui\Desktop\FINAL GAME\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CopyComplete
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.exe
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.deps.json
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.json
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.runtimeconfig.dev.json
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.AssemblyReference.cache
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfoInputs.cache
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.AssemblyInfo.cs
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CoreCompileInputs.cache
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.csproj.CopyComplete
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.dll
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.pdb
+C:\Users\gggui\OneDrive\Documentos\SWORD WARRIORS\SwordWarriors\obj\Debug\netcoreapp3.1\SwordWarriors.genruntimeconfig.cache
